@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jrgg4nHbpVFVPkRDEzscAIJBxajVOEZOcJQYOiNawSEd77fEUO1aeC0gCet8NIfDBm4sr2DEiwt6UjRNMh++cQ==",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\Services\\Ordering.API\\Ordering.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

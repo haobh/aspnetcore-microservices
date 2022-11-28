@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ke7CEx/kPC3HO3f14uxkisPRKHbj8NMPlnpZiN31iFbrjfUchWsX2gN2U9/4k2xpYWv0dzaezFbkNyITpbvtLA==",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\Services\\Product.API\\Product.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

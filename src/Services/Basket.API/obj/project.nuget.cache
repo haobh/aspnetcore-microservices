@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXmERPAnX6fgPZhX6Tnf0dXerLJjQimV91znMBZUDw3/u34bDGcTCkPlSaKfmDWP4ckIOk5Ko++PuLYbaB5liw==",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\Services\\Basket.API\\Basket.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bg+FpPGP6CBBHWxtGoUZ9dm2beyVG9MqSOKMzuZy6zNJLmey+Wmb6hn0HlJ0wx3Ti3W/irKuRZPh7Pw1NrxL7w==",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\WebApps\\WebHealthStatus\\WebHealthStatus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

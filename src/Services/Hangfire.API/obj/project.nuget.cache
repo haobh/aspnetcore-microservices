@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnJ6J9p0B8V35a2rxyScjrtMWPLWp0HL1E1KELhFGE35S1tyHW5DAFz9txvHLV5SfyTr/DiT8hIc6SosvQ5zKw==",
+  "success": true,
+  "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\Services\\Hangfire.API\\Hangfire.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
