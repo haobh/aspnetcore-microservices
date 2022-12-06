@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Bg+FpPGP6CBBHWxtGoUZ9dm2beyVG9MqSOKMzuZy6zNJLmey+Wmb6hn0HlJ0wx3Ti3W/irKuRZPh7Pw1NrxL7w==",
+  "dgSpecHash": "Sk8DtjZRz8k0Kgwsrogl6C/aFOfDjUE0YvX97WDfA9Fxh8/2teVpQqqUDN9/3MWM4jdW94byGBqT2CLQgoJ8Hg==",
   "success": true,
   "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\WebApps\\WebHealthStatus\\WebHealthStatus.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\haobh\\.nuget\\packages\\carbon.data.protection\\1.5.0\\carbon.data.protection.1.5.0.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\carbon.packaging\\1.50.0\\carbon.packaging.1.50.0.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\haobh\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
