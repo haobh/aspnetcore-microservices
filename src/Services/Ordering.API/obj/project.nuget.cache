@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A6zI+0V31Ryp4JHjJE4l4IeZ79MQcVuyuJD03Ck6Ah6a21QWbQUrupgM0n9pOtIxmSMdd8n3k5DbhXI58fw++w==",
+  "dgSpecHash": "N2RPdMwgCYDcDdKD3FSAbkPFcWpE/YXfvLgyoAH7FA7TDccl8J49mc6Nq1MeOlUwUEPOwEHk6hlpPgmPArwyVw==",
   "success": true,
   "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\Services\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
@@ -9,10 +9,7 @@
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512"
   ],
   "logs": []
 }

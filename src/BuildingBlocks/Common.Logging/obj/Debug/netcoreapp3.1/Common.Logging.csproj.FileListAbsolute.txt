@@ -1,0 +1,10 @@
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.deps.json
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.dll
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.pdb
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.AssemblyReference.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfoInputs.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfo.cs
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.CoreCompileInputs.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.dll
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zgNq6tDOgRg88c2OWbHYrRZ2KgKvoKZ7g1xwf/CJ9Ij+LMGPLimpkYYucMYco99yhVssLpYwYypCmkVNNNi5VQ==",
+  "dgSpecHash": "TwO5BvIOb1u+sz0lhTYL00iDE8b6/3BM/yKmhnGEnuS3wnKGrRkC4+0nX8P5of01BrI30Ph1ZQ/BxkqSNxSUWQ==",
   "success": true,
   "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\BuildingBlocks\\Infrastructures\\Infrastructures.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,7 @@
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512"
   ],
   "logs": []
 }

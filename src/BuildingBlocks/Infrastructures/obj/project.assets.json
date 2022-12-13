@@ -1,14 +1,14 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net6.0": {
       "Carbon.Data.Protection/1.5.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.1/Carbon.Data.Protection.dll": {}
+          "lib/net5.0/Carbon.Data.Protection.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/Carbon.Data.Protection.dll": {}
+          "lib/net5.0/Carbon.Data.Protection.dll": {}
         }
       },
       "Carbon.Packaging/1.50.0": {
@@ -16,26 +16,22 @@
         "dependencies": {
           "Carbon.Data.Protection": "1.5.0",
           "Carbon.Storage": "3.0.1",
-          "Carbon.Versioning": "2.0.1",
-          "System.Text.Json": "5.0.1"
+          "Carbon.Versioning": "2.0.1"
         },
         "compile": {
-          "lib/netstandard2.1/Carbon.Packaging.dll": {}
+          "lib/net5.0/Carbon.Packaging.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/Carbon.Packaging.dll": {}
+          "lib/net5.0/Carbon.Packaging.dll": {}
         }
       },
       "Carbon.Storage/3.0.1": {
         "type": "package",
-        "dependencies": {
-          "System.Text.Json": "5.0.1"
-        },
         "compile": {
-          "lib/netcoreapp3.1/Carbon.Storage.dll": {}
+          "lib/net5.0/Carbon.Storage.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Carbon.Storage.dll": {}
+          "lib/net5.0/Carbon.Storage.dll": {}
         }
       },
       "Carbon.VersionControl/2.6.0": {
@@ -44,23 +40,19 @@
           "Carbon.Storage": "3.0.1"
         },
         "compile": {
-          "lib/netstandard2.1/Carbon.VersionControl.dll": {}
+          "lib/net5.0/Carbon.VersionControl.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/Carbon.VersionControl.dll": {}
+          "lib/net5.0/Carbon.VersionControl.dll": {}
         }
       },
       "Carbon.Versioning/2.0.1": {
         "type": "package",
-        "dependencies": {
-          "Microsoft.Bcl.HashCode": "1.1.1",
-          "System.Text.Json": "5.0.1"
-        },
         "compile": {
-          "lib/netstandard2.0/Carbon.Versioning.dll": {}
+          "lib/net5.0/Carbon.Versioning.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Carbon.Versioning.dll": {}
+          "lib/net5.0/Carbon.Versioning.dll": {}
         }
       },
       "GitHub/1.34.0": {
@@ -70,28 +62,10 @@
           "Carbon.VersionControl": "2.6.0"
         },
         "compile": {
-          "lib/netstandard2.1/GitHub.dll": {}
+          "lib/net5.0/GitHub.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/GitHub.dll": {}
-        }
-      },
-      "Microsoft.Bcl.HashCode/1.1.1": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.1/Microsoft.Bcl.HashCode.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.1/Microsoft.Bcl.HashCode.dll": {}
-        }
-      },
-      "System.Text.Json/5.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
+          "lib/net5.0/GitHub.dll": {}
         }
       }
     }
@@ -176,60 +150,10 @@
         "lib/net5.0/GitHub.dll",
         "lib/netstandard2.1/GitHub.dll"
       ]
-    },
-    "Microsoft.Bcl.HashCode/1.1.1": {
-      "sha512": "MalY0Y/uM/LjXtHfX/26l2VtN4LDNZ2OE3aumNOHDLsT4fNYy2hiHXI4CXCqKpNUNm7iJ2brrc4J89UdaL56FA==",
-      "type": "package",
-      "path": "microsoft.bcl.hashcode/1.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/Microsoft.Bcl.HashCode.dll",
-        "lib/net461/Microsoft.Bcl.HashCode.xml",
-        "lib/netcoreapp2.1/Microsoft.Bcl.HashCode.dll",
-        "lib/netcoreapp2.1/Microsoft.Bcl.HashCode.xml",
-        "lib/netstandard2.0/Microsoft.Bcl.HashCode.dll",
-        "lib/netstandard2.0/Microsoft.Bcl.HashCode.xml",
-        "lib/netstandard2.1/Microsoft.Bcl.HashCode.dll",
-        "lib/netstandard2.1/Microsoft.Bcl.HashCode.xml",
-        "microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-        "microsoft.bcl.hashcode.nuspec",
-        "ref/net461/Microsoft.Bcl.HashCode.dll",
-        "ref/netcoreapp2.1/Microsoft.Bcl.HashCode.dll",
-        "ref/netstandard2.0/Microsoft.Bcl.HashCode.dll",
-        "ref/netstandard2.1/Microsoft.Bcl.HashCode.dll",
-        "useSharedDesignerContext.txt",
-        "version.txt"
-      ]
-    },
-    "System.Text.Json/5.0.1": {
-      "sha512": "/UM3UK1dXKl8Ybysg/21gM4S8DJgkR+yLU8JwqCVbuNqQNImelntgYFAN5QxR8sJJ1kMx//hOUdf0lltosi8cQ==",
-      "type": "package",
-      "path": "system.text.json/5.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/System.Text.Json.dll",
-        "lib/net461/System.Text.Json.xml",
-        "lib/netcoreapp3.0/System.Text.Json.dll",
-        "lib/netcoreapp3.0/System.Text.Json.xml",
-        "lib/netstandard2.0/System.Text.Json.dll",
-        "lib/netstandard2.0/System.Text.Json.xml",
-        "system.text.json.5.0.1.nupkg.sha512",
-        "system.text.json.nuspec",
-        "useSharedDesignerContext.txt",
-        "version.txt"
-      ]
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net6.0": [
       "GitHub >= 1.34.0"
     ]
   },
@@ -250,15 +174,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -269,8 +193,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "GitHub": {
             "target": "Package",
@@ -283,7 +207,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -292,7 +217,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

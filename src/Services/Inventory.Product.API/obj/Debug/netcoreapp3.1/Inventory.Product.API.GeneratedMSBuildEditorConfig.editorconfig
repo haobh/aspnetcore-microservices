@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Inventory.Product.API
+build_property.ProjectDir = F:\Software\Project\1.TD\aspnetcore-microservies\src\Services\Inventory.Product.API\

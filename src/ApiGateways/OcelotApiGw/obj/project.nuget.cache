@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gM7Ubd5gJAn4uA8nUe1n4GK/jQXdVUL37XmdhEm7VURj1mqq8qE9nY/5+Viu4j/V9GlKW0WuiKmBjT4r28xGTg==",
+  "dgSpecHash": "YYo13U5/Qrusqg9nEFSEXHdHNIe+58ud0BR2b+k/8RfilxW4tTztIS6Q59ggrU3ynMLoJBHybaGfjKNZqtFksg==",
   "success": true,
   "projectFilePath": "F:\\Software\\Project\\1.TD\\aspnetcore-microservies\\src\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
   "expectedPackageFiles": [
@@ -9,10 +9,7 @@
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
     "C:\\Users\\haobh\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
-    "C:\\Users\\haobh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\haobh\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512"
   ],
   "logs": []
 }

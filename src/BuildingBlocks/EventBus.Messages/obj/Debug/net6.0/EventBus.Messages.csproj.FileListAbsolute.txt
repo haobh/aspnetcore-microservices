@@ -1,0 +1,12 @@
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\EventBus.Messages.deps.json
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\EventBus.Messages.dll
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\EventBus.Messages.pdb
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.csproj.AssemblyReference.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.AssemblyInfoInputs.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.AssemblyInfo.cs
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.dll
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\refint\EventBus.Messages.dll
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.pdb
+F:\Software\Project\1.TD\aspnetcore-microservies\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\ref\EventBus.Messages.dll
