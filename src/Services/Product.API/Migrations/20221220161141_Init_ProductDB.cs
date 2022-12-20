@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Product.API.Migrations
 {
-    public partial class Init_ProductDB_v1 : Migration
+    public partial class Init_ProductDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

@@ -10,6 +10,13 @@ namespace Product.API.Extensions
 {
     public static class ServiceExtensions
     {
+        /// <summary>
+        /// Thêm các thư viện cấu hình bên ngoài như swagger
+        /// Gọi đến ConfigureProductDbContext để migrate đến MySQL
+        /// </summary>
+        /// <param name="services"></param>
+        /// <param name="configuration"></param>
+        /// <returns></returns>
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddControllers();

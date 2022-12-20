@@ -9,6 +9,10 @@ namespace Product.API.Extensions
     /// </summary>
     public static class ApplicationExtensions
     {
+        /// <summary>
+        /// Sử dụng các thư viện swagger, routing, UseAuthorization
+        /// </summary>
+        /// <param name="app"></param>
         public static void UseInfrastructure(this IApplicationBuilder app)
         {
             app.UseSwagger();
